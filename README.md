@@ -1,5 +1,5 @@
 # Adobe XD Short Keys
-
+<p>For Windows And MacOs</p></br>
 <h1>Windows</h1>
 
 <div class="tabs-top"><div class="tab-content"><div id="windows" class="tab-pane active"><div id="accordion"><a name="General_Shortcuts" id="General_Shortcuts"></a><div class="card"><div class="card-header"><h3 class="heading-title7">1. General Shortcuts</h3></div><div id="collapse1" class="collapse show"><table class="shortcuts-table">  <tbody><tr class="shortcut-row">
@@ -238,10 +238,8 @@
                     <td class="shortcut-key-column"><p><span class="kbd">Ctrl</span>+<span class="kbd">Shift</span>+<span class="kbd">I</span></p></td>
                     <td><p><span class="kbd">I</span>mport</p></td>
                 </tr>                </tbody></table></div></div>              </div>          </div>     </div> </div>
-                
-                
-                <h1>MacOs</h1>
 
+<h1>MacOs</h1>
 
 <div class="tabs-top"><div class="tab-content"><div id="windows" class="tab-pane active"><div id="accordion"><a name="General_Shortcuts" id="General_Shortcuts"></a><div class="card"><div class="card-header"><h3 class="heading-title7">1. General Shortcuts</h3></div><div id="collapse1" class="collapse show"><table class="shortcuts-table">  <tbody><tr class="shortcut-row">
                     <td class="shortcut-key-column"><p><span class="kbd">Command</span>+<span class="kbd">H</span></p></td>
